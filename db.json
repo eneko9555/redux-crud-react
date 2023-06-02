@@ -1,0 +1,14 @@
+{
+  "productos": [
+    {
+      "name": "Eneko",
+      "price": "2",
+      "id": 1
+    },
+    {
+      "name": "e",
+      "price": "2",
+      "id": 2
+    }
+  ]
+}
